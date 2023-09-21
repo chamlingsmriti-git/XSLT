@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text1.xsl"?>
+<employees>
+  <employee>
+    <name>Isha Limbu</name>
+    <department>BCA</department>
+    <job-title>HOD</job-title>
+    <salary>20000</salary>
+    <email>limbuisha@gmail.com</email>
+  </employee>
+<employee>
+    <name>Anisha Rai</name>
+    <department>BHM</department>
+    <job-title>Chief Cook</job-title>
+    <salary>25000</salary>
+    <email>anisharai2@gmail.com</email>
+  </employee>
+  <employee>
+    <name>Sanjan Shrestha</name>
+    <department>developer</department>
+    <job-title>Manager</job-title>
+    <salary>30000</salary>
+    <email>sanjana25@gmail.com</email>
+  </employee>
+</employees>
